@@ -23,7 +23,7 @@
       "Appodeal_id": "01234567890123457890145789",
       "Startapp_id": "206768024",
 
-      "Active_Ad_network": "admob appodeal startapp",
+      "Active_Ad_network": "",
 
       "Ad__1__Interstitial": "admob",
       "Ad__2__Interstitial": "appodeal",
@@ -58,7 +58,7 @@
       "Gdpr_activate": "no",
       "Gdpr_id": "pub-3940256099942544",
 
-      "Cpa_activate": "yes",
+      "Cpa_activate": "no",
       "Cpa_text": "Claim Your Free Diamonds Here",
       "Cpa_image": "https://i.imgur.com/gw4iV9Q.png",
       "Cpa_url": "https://www.google.com/",
