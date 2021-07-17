@@ -30,9 +30,9 @@
       "Ad__3__Interstitial": "admob",
       "Ad__4__Interstitial": "startapp",
 
-      "Ad__X__Banner": "admob",
-      "Ad__X__Native": "admob",
-      "Ad__X__Rectangle": "admob",
+      "Ad__X__Banner": "",
+      "Ad__X__Native": "",
+      "Ad__X__Rectangle": "",
 
       "Test_mode_unity"     : "yes",
       "Test_mode_appodeal"  : "yes",
